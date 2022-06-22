@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubrey Barnes</h1>
 <h3 align="center">A passionate frontend developer from Louisiana</h3>
 
-- 🌱 I’m currently learning **NextJS, React, UX Design**
+- 🌱 I’m currently learning **NextJS, React, NodeJS, SASS**
 
 - 👨‍💻 All of my projects are available at [https://aubreybarnes.dev/](https://aubreybarnes.dev/)
 
